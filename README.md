@@ -50,7 +50,7 @@ cd [project folder]
 
 *(In your own IDE environment:)*  
 Copy code  
-*In terminal:*  
+*(In terminal:)*  
 pip install -r requirements.txt
 
 3. **Run the Python Script:**
