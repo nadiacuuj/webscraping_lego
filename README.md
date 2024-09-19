@@ -10,7 +10,7 @@ This project is a web scraper that extracts the names of challenging LEGO sets f
 
 ### Purpose
 
-The purpose of this scraper is to gather a list of challenging LEGO sets designed for adult builders. This can be used for LEGO enthusiasts or hobbyists who are looking for recommendations on complex builds — curated for both young-at-heart adults, and wise-beyond-their-years children, alike. Additionally, it showcases how to use Python and BeautifulSoup to scrape a website that doesn’t provide an API.
+The purpose of this scraper is to gather a list of challenging LEGO sets designed for both young-at-heart adults, and wise-beyond-their-years children, alike. This can be used for LEGO enthusiasts or hobbyists who are looking for recommendations on complex builds. Additionally, it showcases how to use Python and BeautifulSoup to scrape a website that doesn’t provide an API.
 
 The random LEGO set recommendation feature provides an element of fun by offering a surprise suggestion from the list, helping users quickly discover their next potential build.
 
