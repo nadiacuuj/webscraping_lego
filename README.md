@@ -1,4 +1,4 @@
-# LEGO Challenging Sets Web Scraper
+# "LEGO Sets for Adults" Catalogue Web Scraper
 
 ## Project Overview
 
