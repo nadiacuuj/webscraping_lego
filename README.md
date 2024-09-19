@@ -21,15 +21,6 @@ The data uncovered by the scraper includes:
 - This list can be useful for hobbyists, collectors, or anyone seeking challenging LEGO sets to purchase.
 - The program will also recommend a random LEGO set from the scraped data to help users make a choice.
 
-## Future Enhancements: 
-In the future, we plan to extend this project to scrape additional details for each LEGO set, such as:
-- Price
-- Recommended Age
-- Number of Pieces
-- User Rating
-
-These additional details are currently not scraped because they are dynamically loaded on the page via JavaScript, which requires more advanced web scraping tools like Selenium. For this project, we chose to use BeautifulSoup to keep the scope focused on static content scraping. In future iterations, we may introduce Selenium or similar tools to handle dynamic content.
-
 ## Website Used
 
 The website scraped is: [LEGO - Challenging LEGO Sets for Adults](https://www.lego.com/en-us/categories/adults-welcome/article/challenging-lego-sets-to-build-for-adults).
@@ -60,6 +51,15 @@ pip install -r requirements.txt
 
 3. **Run the Python Script:**
 4. python main.py
+
+## Future Enhancements: 
+In the future, we plan to extend this project to scrape additional details for each LEGO set, such as:
+- Price
+- Recommended Age
+- Number of Pieces
+- User Rating
+
+These additional details are currently not scraped because they are dynamically loaded on the page via JavaScript, which requires more advanced web scraping tools like Selenium. For this project, we chose to use BeautifulSoup to keep the scope focused on static content scraping. In future iterations, we may introduce Selenium or similar tools to handle dynamic content.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
