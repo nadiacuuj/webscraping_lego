@@ -43,7 +43,7 @@ To run this scraper locally, follow these steps:
 1. **Clone the repository**:
    
 *In terminal*:
-   git clone [repository URL]
+   \ngit clone [repository URL]
    cd [project folder]
 
 3. **Install the required dependencies**:
