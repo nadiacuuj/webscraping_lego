@@ -41,11 +41,12 @@ This particular page is a static website, meaning the content is readily availab
 To run this scraper locally, follow these steps:
 
 1. **Clone the repository**:
+   
     *In terminal*:
    git clone [repository URL]
    cd [project folder]
 
-2. **Install the required dependencies**:
+3. **Install the required dependencies**:
 
 *In your own IDE environment:*
 Copy code
@@ -53,6 +54,7 @@ Copy code
 pip install -r requirements.txt
 
 3. **Run the Python Script**
+   
 python main.py
 
 ## Contributing
