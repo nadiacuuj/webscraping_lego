@@ -1,4 +1,4 @@
-# ETHICS.md
+# Ethical Considerations
 
 ## Purpose of Data Collection
 
@@ -30,7 +30,7 @@ We only scrape publicly accessible pages that do not explicitly prohibit scrapin
 - The data collected through this project is used solely for educational and research purposes. It is not used for commercial gain, nor is it sold or shared with third parties.
 - The purpose of the data is to provide a curated list of challenging LEGO sets for adults, helping users and developers learn about web scraping techniques.
 
-## Ethical Considerations
+## Conclusions
 
 - This project adheres to ethical guidelines for web scraping, including compliance with the website’s `robots.txt` file and implementing rate limiting to minimize disruption to the website’s resources.
 - We avoid scraping sensitive or personal information and respect the legal boundaries and terms set by the website. All scraped data is for educational purposes and complies with ethical web scraping standards.
