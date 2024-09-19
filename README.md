@@ -42,20 +42,19 @@ To run this scraper locally, follow these steps:
 
 1. **Clone the repository**:
    
-    *In terminal*:
+*In terminal*:
    git clone [repository URL]
    cd [project folder]
 
 3. **Install the required dependencies**:
 
-*In your own IDE environment:*
-Copy code
+In your own IDE environment:*
+   Copy code
 *In terminal:*
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. **Run the Python Script**
-   
-python main.py
+   python main.py
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
