@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a web scraper that extracts the names of challenging LEGO sets for adults from the LEGO - Challenging LEGO Sets for Adults page.
+This project is a web scraper that extracts the names of challenging LEGO sets for adults from the "LEGO - Challenging LEGO Sets for Adults" page.
 
 - The LEGO website curates a list of challenging sets specifically aimed at adult builders.
 - This script scrapes the data and saves it into a structured format (CSV), making it easy to analyze or use for recommendations.
