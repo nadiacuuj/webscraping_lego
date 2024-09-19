@@ -48,7 +48,7 @@ cd [project folder]
 
 3. **Install the required dependencies**:
 
-In your own IDE environment:*  
+*In your own IDE environment:*  
 Copy code
 *In terminal:*  
 pip install -r requirements.txt
