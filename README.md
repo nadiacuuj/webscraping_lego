@@ -60,6 +60,3 @@ In the future, the project can additionally be extended to scrape additional det
 - User Rating
 
 These additional details are currently not scraped because they are dynamically loaded on the page via JavaScript, which requires more advanced web scraping tools like Selenium. For this project, only BeautifulSoup is used to keep the scope focused on static content scraping. In future iterations, Selenium or similar tools may be introduced to handle dynamic content.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
